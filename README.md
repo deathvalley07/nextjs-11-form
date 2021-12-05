@@ -1,3 +1,3 @@
-# next-js-11-registration-login-example
+# next-js-11-validation form
 
-Next.js 11 - User Registration and Login Example
+Next.js 11 - Registration and Login
